@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="">
+    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc1 commit&#10;Basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlipCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlipCoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leapyear.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Leapyear">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Basic_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic_1" />
       <module name="EmployeeWage" />
@@ -62,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EmployeeWage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Leapyear" />
         <item itemvalue="Application.Basic_1" />
       </list>
@@ -78,6 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1732810944640</updated>
     </task>
+    <task id="LOCAL-00001" summary="uc1 commit&#10;Basics">
+      <created>1732860809834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732860809834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uc1 commit&#10;Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="uc1 commit&#10;Basics" />
   </component>
 </project>

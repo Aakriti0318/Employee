@@ -5,7 +5,6 @@ public class Employee {
     int normalWorkDay = 8;
     int salPerHour = 20;
     double dailySalary = 0;
-
     public void attendance(boolean a){
         if(a){
             attendence = true;
@@ -15,7 +14,6 @@ public class Employee {
             System.out.println("Employee is absent");
         }
     }
-
     public void calculateWage(){
         if(attendence){
             dailySalary = normalWorkDay*salPerHour;
@@ -25,7 +23,6 @@ public class Employee {
             System.out.println(dailySalary);
         }
     }
-
     Employee(String name, int id){
         this.name = name;
         this.id = id;
