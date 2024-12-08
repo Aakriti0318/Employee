@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc1 commit">
+    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc2 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/LineComparision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/LineComparision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/taakr/IdeaProjects/EmployeeWage&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/taakr/IdeaProjects/SnakeNLadder"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733329419020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uc2 commit">
+      <created>1733638541715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733638541715</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uc1 commit&#10;Basics" />
     <MESSAGE value="uc1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="uc1 commit" />
+    <MESSAGE value="uc2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="uc2 commit" />
   </component>
 </project>
