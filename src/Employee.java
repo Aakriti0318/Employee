@@ -1,9 +1,9 @@
+import java.util.Scanner;
 public class Employee {
     String name;
     int id;
     boolean attendence= false;
-    int normalWorkDay = 8;
-    int salPerHour = 20;
+    Scanner sc=new Scanner(System.in);
     double dailySalary = 0;
     public void attendance(boolean a){
         if(a){
@@ -14,7 +14,7 @@ public class Employee {
             System.out.println("Employee is absent");
         }
     }
-    public void calculateWage(){
+    public void calculateWage(int normalWorkDay,int salPerHour){
         if(attendence){
             dailySalary = normalWorkDay*salPerHour;
             System.out.println(dailySalary);
@@ -26,5 +26,8 @@ public class Employee {
     Employee(String name, int id){
         this.name = name;
         this.id = id;
+    }
+    public String toString(){
+        return "Employee {name='" + name + "', id=" + id + "}";
     }
 }

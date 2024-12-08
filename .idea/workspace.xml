@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc1 commit&#10;Basics">
-      <change afterPath="$PROJECT_DIR$/src/LineComparision.java" afterDir="false" />
+    <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc1 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Basic_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Leapyear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733220846440</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="uc1 commit">
+      <created>1733329419020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733329419020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uc1 commit&#10;Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="uc1 commit&#10;Basics" />
+    <MESSAGE value="uc1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="uc1 commit" />
   </component>
 </project>
