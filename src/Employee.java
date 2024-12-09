@@ -1,33 +1,30 @@
-import java.util.Scanner;
-public class Employee {
-    String name;
-    int id;
-    boolean attendence= false;
-    Scanner sc=new Scanner(System.in);
-    double dailySalary = 0;
-    public void attendance(boolean a){
-        if(a){
-            attendence = true;
+import java.util.ArrayList;
+import java.util.List;
+public class Employee{
+    String ename;//Name of the employee
+    int id;//id of the employee
+    private static final int WAGE_PER_HOUR = 20;
+//Calculating Daily Wages
+    public static int calculateDailyWage(int hours,int WAGE_PER_HOUR ) {
+        return hours * WAGE_PER_HOUR;
+    }
+    public void attendance(int a){
+        if(a==1 || a==2){
             System.out.println("Employee is present");
         }
-        else {
+        else{
             System.out.println("Employee is absent");
         }
     }
-    public void calculateWage(int normalWorkDay,int salPerHour){
-        if(attendence){
-            dailySalary = normalWorkDay*salPerHour;
-            System.out.println(dailySalary);
-        }else{
-            dailySalary = 0;
-            System.out.println(dailySalary);
-        }
+    //Calculating Monthly wages
+    public static int calculateMonthlyWage(int totalHours) {
+        return totalHours*WAGE_PER_HOUR;
     }
-    Employee(String name, int id){
-        this.name = name;
+    Employee(String ename, int id){
+        this.ename = ename;
         this.id = id;
     }
     public String toString(){
-        return "Employee {name='" + name + "', id=" + id + "}";
+        return "Employee {name='" + ename + "', id=" + id + "}";
     }
 }

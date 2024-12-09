@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e10695-d0e7-4e06-8ca4-d3c0394d130c" name="Changes" comment="uc2 commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/LineComparision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/LineComparision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/LineComparision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LineComparision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,7 +48,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/taakr/IdeaProjects/SnakeNLadder"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/taakr/IdeaProjects/EmployeeWage"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,9 +57,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.EmployeeWageCalculator">
     <configuration name="Basic_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic_1" />
+      <module name="EmployeeWage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageCalculator" />
       <module name="EmployeeWage" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,16 +79,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EmployeeWage" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EmployeeWageCalculator" />
         <item itemvalue="Application.Leapyear" />
         <item itemvalue="Application.Basic_1" />
       </list>
